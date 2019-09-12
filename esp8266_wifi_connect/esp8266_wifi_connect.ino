@@ -1,6 +1,6 @@
 #include "ESP8266WiFi.h"
  
-const char* ssid = "IKUN";
+const char* ssid = "IFTTT";
 const char* password = "1234567890";
  
 void setup(void)
